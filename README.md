@@ -63,7 +63,7 @@
 
 
 <p align="left">
-    <a href="www.linkedin.com/in/abhishek-kanojiya-53a107246">
+    <a href="www.linkedin.com/in/abhishek-kanojiya-baijnath">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
  
 
