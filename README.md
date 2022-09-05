@@ -75,9 +75,7 @@
     <a href="www.linkedin.com/in/abhishek-kanojiya-53a107246">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
  
-    <a title="abhishekkanojia012@gmail.com" href="mailto:abhishekkanojia012@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abhishekkanojia012@gmail.com" />
-    </a>
+
 </p>
 
 
