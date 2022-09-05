@@ -72,14 +72,11 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/m-sehrawat">
+    <a href="www.linkedin.com/in/abhishek-kanojiya-53a107246">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    </a>
-    <a href="https://twitter.com/MohitSehrawatt">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
-    </a>
-    <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+ 
+    <a title="abhishekkanojia012@gmail.com" href="mailto:abhishekkanojia012@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abhishekkanojia012@gmail.com" />
     </a>
 </p>
 <br>
