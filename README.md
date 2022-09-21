@@ -44,19 +44,6 @@
 
 
 
-<!----------------------------------- Project Section ------------------------------------>
-
-<h2><i>My top projects</i></h2>
-
-
-<p align="left">
-    <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
-</p>
-<br>
-
-
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
